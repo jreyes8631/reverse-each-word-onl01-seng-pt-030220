@@ -1,5 +1,5 @@
 def reverse_each_word(name)
-  name = "This is it"
+  name = "Hello there, and how are you?"
   
   name.each do |name|
     name.reverse
